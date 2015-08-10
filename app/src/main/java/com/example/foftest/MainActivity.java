@@ -136,4 +136,4 @@ public class MainActivity extends Activity implements LocationListener, View.OnC
 
         return super.onOptionsItemSelected(item);
     }
-}
+}//a
